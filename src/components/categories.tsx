@@ -138,7 +138,7 @@ function Categories() {
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
           <Link href={"/casual"}>
             <Image
-              src="/images/mencasual.jpg"
+              src="/images/formal.jpg"
               alt="casual"
               height={350}
               width={350}
@@ -156,7 +156,7 @@ function Categories() {
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
           <Link href={"/formal"}>
             <Image
-              src="/images/menformal.png"
+              src="/images/formal.png"
               alt="formal"
               height={350}
               width={350}
@@ -253,7 +253,7 @@ function Categories() {
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
           <Link href={"/accessories"}>
             <Image
-              src="/images/kidsaccessories.jpeg"
+              src="/images/kidsaccessories.png"
               alt=""
               height={350}
               width={350}

@@ -253,7 +253,7 @@ function Categories() {
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
           <Link href={"/accessories"}>
             <Image
-              src="/images/kidsaccessories.png"
+              src="/images/kidsaccessories.jpeg"
               alt=""
               height={350}
               width={350}
